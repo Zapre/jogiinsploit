@@ -2,8 +2,6 @@
 
 JogiinSploit is a Cyber Security researching tool, its goal is to be a small alternative to "Maltego" in the future. JogiinSploit is a lightweight tool, portable, absolutely no installations and public source!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### What is JogiinSploit
 
 JogiinSploit is a light weight penetration testing tool for websites, right now it can scan for SQLi vulnerable websites, Crawl websites and grab all URL'S, Get HTTP GET response in plaintext, extract emails that are hidden through the website, find admin login panel and Resource Bomber.
