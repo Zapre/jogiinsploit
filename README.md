@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to JogiinSploit
 
-You can use the [editor on GitHub](https://github.com/Zapre/jogiinsploit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+JogiinSploit is a Cyber Security researching tool, its goal is to be a small alternative to "Maltego" in the future. JogiinSploit is a lightweight tool, portable, absolutely no installations and public source!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is JogiinSploit
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JogiinSploit is a light weight penetration testing tool for websites, right now it can scan for SQLi vulnerable websites, Crawl websites and grab all URL'S, Get HTTP GET response in plaintext, extract emails that are hidden through the website, find admin login panel and Resource Bomber.
 
-```markdown
-Syntax highlighted code block
+### SQLi Scanner
+Find vulnerable web servers to SQLi using a google dork, JogiinSploit will use a dictionary of blind SQL errors to confirm if it is vulnerable. Also scan for Vulnerable servers to XSS (Cross Site Scripting), LFI Fuzz (Remote File Inclusion), LFI.
 
-# Header 1
-## Header 2
-### Header 3
+### HTTP Crawler
+With a website of your choice quickly get all URL's on the website's form
 
-- Bulleted
-- List
+### HTTP Response
+Get any websites response it sends you, JogiinSploit will capture the response request and display it in plaintext.
 
-1. Numbered
-2. List
+### Email Extractor
+Find emails on a website, does not crawl only scans direct link.
 
-**Bold** and _Italic_ and `Code` text
+### Admin Finder
+Find any websites admin login page from a dictionary over 400 urls to test!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zapre/jogiinsploit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Resource Bomber
+Exploit vulnerable 508 servers to a "DoS" attack, not all websites are vulnerable to this. This exploit was made by Zapre.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If any busniness inquiries contact me on discord Zapre#0680.
