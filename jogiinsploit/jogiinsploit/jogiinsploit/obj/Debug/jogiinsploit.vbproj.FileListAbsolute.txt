@@ -1,0 +1,66 @@
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbprojResolveAssemblyReference.cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.GenerateResource.Cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.CoreCompileInputs.cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.main.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.Resources.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe.config
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.load.resources
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe.config
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbprojResolveAssemblyReference.cache
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.main.resources
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.load.resources
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.Resources.resources
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.GenerateResource.Cache
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.CoreCompileInputs.cache
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\Everything\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe.config
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbprojResolveAssemblyReference.cache
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.main.resources
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.load.resources
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.Resources.resources
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.GenerateResource.Cache
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.CoreCompileInputs.cache
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\Everything\Programs\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.pdb
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe.config
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.exe
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.xml
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.pdb
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.pdb
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.xml
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbprojResolveAssemblyReference.cache
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.main.resources
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.load.resources
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.Resources.resources
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.GenerateResource.Cache
+C:\Users\itdesk\Desktop\Brandons Projects\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.asd.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe.config
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.pdb
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\bin\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbprojResolveAssemblyReference.cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.asd.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.main.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.load.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.Resources.resources
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.GenerateResource.Cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\jogiinsploit.vbproj.CoreCompileInputs.cache
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.exe
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.xml
+C:\Users\zapre\Desktop\jogiinsploit\jogiinsploit\jogiinsploit\obj\Debug\JogiinSploit86.pdb
